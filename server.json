@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 3
+    },
+    {
+      "id": 3,
+      "amount": 3
+    },
+    {
+      "id": 4,
+      "amount": 3
+    },
+    {
+      "id": 5,
+      "amount": 3
+    },
+    {
+      "id": 6,
+      "amount": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    },
+    {
+      "id": 2,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    },
+    {
+      "id": 3,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    },
+    {
+      "id": 4,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    },
+    {
+      "id": 5,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    },
+    {
+      "id": 6,
+      "title": "Mochila pratica",
+      "price": 19.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5cK5BFMU3TbQ_c2_2PwVZCoRV-xKi7jAfZpBAp8DGX-EzSSp&s"
+    }
+  ]
+}
